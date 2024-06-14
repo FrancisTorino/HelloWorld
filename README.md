@@ -6,3 +6,4 @@ Attendance:
 
 1. Francis Torino
 2. Lawrence Mamac
+3. Stephanie Diche
