@@ -9,3 +9,4 @@ Attendance:
 6. Olivia Dorado
 7. Cedric Ramos
 8. Sarah Abanera
+9. Maybelien Monzon
