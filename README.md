@@ -16,4 +16,5 @@ Attendance:
 12. Joshua Cabadin
 13. Stephany Diche
 14. Angeline Ayapana
+15. Aldrin Christian Mendoza
 
