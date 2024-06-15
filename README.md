@@ -9,3 +9,4 @@ Attendance:
 3. Stephanie Diche
 4. Brix Villlanueva
 5. Angelo Montales
+6. Olivia Dorado
