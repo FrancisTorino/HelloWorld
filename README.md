@@ -8,3 +8,4 @@ Attendance:
 2. Lawrence Mamac
 3. Stephanie Diche
 4. Brix Villlanueva
+5. Angelo Montales
