@@ -10,3 +10,5 @@ Attendance:
 7. Cedric Ramos
 8. Sarah Abanera
 9. Maybelien Monzon
+9. Marc Niel Salva
+
