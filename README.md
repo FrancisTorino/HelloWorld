@@ -13,4 +13,5 @@ Attendance:
 9. Marc Niel Salva
 10. Joelle Mangundayao
 11. Alexandra Trinidad
+12. Joshua Cabadin
 
