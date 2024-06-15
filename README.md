@@ -11,4 +11,6 @@ Attendance:
 8. Sarah Abanera
 9. Maybelien Monzon
 9. Marc Niel Salva
+10. Joelle Mangundayao
+11. Alexandra Trinidad
 
