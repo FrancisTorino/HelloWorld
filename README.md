@@ -14,4 +14,5 @@ Attendance:
 10. Joelle Mangundayao
 11. Alexandra Trinidad
 12. Joshua Cabadin
+13. Stephany Diche
 
