@@ -8,3 +8,4 @@ Attendance:
 5. Angelo Montales
 6. Olivia Dorado
 7. Cedric Ramos
+8. Sarah Abanera
